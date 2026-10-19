@@ -148,6 +148,15 @@ To match your voice, add two or three paragraphs of your own writing before the 
 | MX-2 | Formal Thai terms for everyday tech words |
 | MX-3 | The same term in two forms |
 
+## Responsible use
+
+This skill edits wording. It does not check facts, and it does not make text "undetectable".
+
+- **You are responsible for what you publish.** The skill keeps every claim in the source, including ones an AI made up, and lists them for you to check. Check them before you publish.
+- **Follow the rules where you submit the text.** Many schools, journals, employers, and platforms require you to disclose AI use or ban it. This skill does not change those rules. Do not use it to hide AI use where disclosure is required.
+- **No guarantee.** Readers and AI detectors may still judge the result as AI-written. The software is provided "as is", without warranty; see [LICENSE](LICENSE).
+- **No data collection.** The skill is a set of instructions for your agent. It sends nothing anywhere by itself. Your text goes only to the AI service you already use, under that service's terms.
+
 ## Contributing
 
 Found a Thai or English tell that is not listed? Open an issue with a real example and a rewrite. Before a pull request, run:
@@ -156,11 +165,13 @@ Found a Thai or English tell that is not listed? Open an issue with a real examp
 python3 scripts/validate-package.py
 ```
 
-See [AGENTS.md](AGENTS.md) for the rules.
+See [AGENTS.md](AGENTS.md) for the rules. By sending a pull request, you agree that your contribution is released under the MIT License of this project. Use only examples you wrote yourself or have the right to share, and remove personal data from them.
 
 ## Credits
 
 This project adapts the skill structure, the workflow, and many English patterns from [Humanizer](https://github.com/blader/humanizer) by Siqi Chen (MIT), which is based on Wikipedia's [Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing). The Thai and mixed-language patterns are new. See [LICENSE](LICENSE).
+
+This project is independent. It is not affiliated with or endorsed by the Humanizer authors, Wikipedia, or any AI company. Product names such as Claude, ChatGPT, Gemini, and Cursor are trademarks of their owners and are used here only to describe compatibility and test data.
 
 ## License
 
