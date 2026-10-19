@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "phasa-khon-humanizer",
+  "owner": {
+    "name": "Pisitkorn-Bootchada",
+    "url": "https://github.com/Pisitkorn-Bootchada"
+  },
+  "description": "Install Phasa Khon Humanizer as a Claude plugin.",
+  "plugins": [
+    {
+      "name": "phasa-khon-humanizer",
+      "source": "./",
+      "description": "Rewrite AI-sounding Thai or English text so it reads like a person wrote it, without changing what it says.",
+      "license": "MIT",
+      "keywords": ["writing", "editing", "humanize", "thai", "english", "prose"]
+    }
+  ]
+}
