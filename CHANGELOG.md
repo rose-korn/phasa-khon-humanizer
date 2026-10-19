@@ -9,6 +9,8 @@ Tuned the Thai patterns against real output from ChatGPT, Claude, and Gemini (`t
 - TH-3 and TH-18 now say to keep a real claim inside a stock phrase. TH-26 now says to move useful advice from cut notes into the check list, and to ask which version to keep when a draft offers several.
 - MX-1 covers English words dropped into Thai grammar more often than a team would say them.
 - New worked example from real output: `examples/th-real-fb-post.md`.
+- Pasted text now returns only the final version and the check list by default. The draft and the tell list appear only when the user asks.
+- TH-25 keeps a list whose lines each carry their own fact (specs, prices, order channels) instead of merging it into a paragraph.
 
 ## 0.1.0
 

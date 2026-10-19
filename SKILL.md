@@ -75,7 +75,7 @@ Removing tells is half the job. The result must still sound like a particular pe
 
 ## What to return
 
-- **Pasted text (default).** Return the draft, a short list of tells that remained after the draft, and the final version.
+- **Pasted text (default).** Return the final version, then the list of placeholders and claims to check. Keep the draft and the list of tells to yourself unless the user asks to see the work.
 - **File mode.** When the user names a file, do the full process but write only the final text to the file. Change prose only. Leave code, inline code, commands, paths, YAML, data, and link targets as they are. Then give the user a short summary.
 - **Embedded mode.** When another task uses this skill for a commit message, pull request, caption, or document, return only the final text.
 - **Review only.** When the user asks whether a text sounds like AI, list the tells you found with their pattern IDs (for example TH-12, EN-1) and stop. Say how confident you are; people and detectors both judge this poorly.
