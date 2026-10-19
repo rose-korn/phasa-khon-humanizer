@@ -1,0 +1,4 @@
+interface:
+  display_name: "Phasa Khon Humanizer"
+  short_description: "Make AI-written Thai or English sound like a person wrote it"
+  default_prompt: "Use $phasa-khon-humanizer to rewrite this text so it sounds like me, without changing its facts."
