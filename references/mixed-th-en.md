@@ -15,7 +15,7 @@ Thai writers mix English into Thai all the time, especially in tech, business, m
 
 ### MX-1. English structure in Thai words
 
-The Thai reads as if it was written in English first. See TH-6 to TH-10. This is common when a model writes Thai from an English prompt.
+The Thai reads as if it was written in English first. See TH-6 to TH-10. This is common when a model writes Thai from an English prompt. Another form: English words dropped into Thai grammar more often than the team would say them ("feature login ใหม่ development เสร็จเรียบร้อยแล้ว", "รอ QA team เข้ามา test เพื่อ verify"). Keep the English words the team really uses (feature, QA, deploy, bug) and say the rest in Thai.
 
 ### MX-2. Formal Thai terms for everyday tech words
 
