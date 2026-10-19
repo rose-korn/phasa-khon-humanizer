@@ -155,7 +155,7 @@ This skill edits wording. It does not check facts, and it does not make text "un
 - **You are responsible for what you publish.** The skill keeps every claim in the source, including ones an AI made up, and lists them for you to check. Check them before you publish.
 - **Follow the rules where you submit the text.** Many schools, journals, employers, and platforms require you to disclose AI use or ban it. This skill does not change those rules. Do not use it to hide AI use where disclosure is required.
 - **No guarantee.** Readers and AI detectors may still judge the result as AI-written. The software is provided "as is", without warranty; see [LICENSE](LICENSE).
-- **No data collection.** The skill is a set of instructions for your agent. It sends nothing anywhere by itself. Your text goes only to the AI service you already use, under that service's terms.
+- **We never see your text.** The skill is only a file of instructions that tells your AI how to edit. It has no code or server that sends your text anywhere. Your text goes only to the AI service you already use, such as Claude or ChatGPT, under that service's terms.
 
 ## Contributing
 
