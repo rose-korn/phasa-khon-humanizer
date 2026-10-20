@@ -1,0 +1,6 @@
+Check before publishing:
+- The chatbot said the feature list is generic sample copy. Verify each claim against the real product: UVA/UVB protection, light texture, absorbs fast, non-comedogenic ("ไม่อุดตัน"), "suits all skin types", no white cast, daily indoor/outdoor use.
+- Add the real SPF/PA values and ingredients (not in the source).
+- Price 390 baht per tube and "buy 2, free shipping": confirm both, and whether the offer has an end date or other limits.
+- Dropped as unsupported filler: "คุณภาพดี", "คุ้มสุดๆ", the opening slogan. No brand name appears in the source.
+- Female particle "ค่ะ" kept from the source; change if the seller is not female.

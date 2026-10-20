@@ -1,0 +1,7 @@
+Check before publishing:
+- 12% overall growth: the comparison base was never named ("ช่วงเปรียบเทียบ", dropped). State what it is compared with (Q2? Q3 last year?).
+- Channel figures online +30% and in-store -5%: confirm. They were given as percentages only; add actual sales in baht and each channel's share of the total if available. Check that 30% and -5% are consistent with 12% overall.
+- Claim that customers are moving from stores to online: source states it as a trend with no evidence. Confirm it, or soften it.
+- Claim that the online channel is what pulled the total positive: follows from the numbers only if online has enough share.
+- Recommendations (invest more online, find the cause of the in-store drop, consider omnichannel) are suggestions only. Confirm they reflect your team's view. "เช่น ทำเลหรือโปรโมชัน" are guesses at causes, not findings.
+- Dropped the third bullet, which repeated the overview. Chatbot offer to add real data was cut.

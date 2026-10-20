@@ -1,0 +1,6 @@
+Placeholders kept as is: [ชื่อหัวหน้า], [ชื่อรายงาน], [วันที่] (two slots: original due date Friday and new date Monday), [ชื่อของคุณ], [ตำแหน่ง / ฝ่าย].
+Check before publishing:
+- Particles: the source used the template pairs "ผม/ดิฉัน" and "ครับ/ค่ะ" many times. I dropped the pronoun and left one "ครับ/ค่ะ" near the end. Choose the one that fits the sender.
+- Cause: accounting data is incomplete. Confirm it is true and that accounting is being chased.
+- Promise: the report will be done as soon as the data arrives. Confirm you can keep it, and that Monday is realistic.
+- Optional tip from the chatbot (cut): if part of the report is already finished, attach it or report progress.

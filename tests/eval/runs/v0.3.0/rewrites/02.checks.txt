@@ -1,0 +1,5 @@
+Check before publishing:
+- The source offered 4 caption styles; only style 1 (chill) was rewritten. 3 others (short, invite-friends, playful) were left out.
+- Claims: the cafe is new, it is near Ari, the latte art is pretty. Confirm all against the real visit.
+- Hashtags trimmed to those that fit style 1 (the source suggested 8, including #cafehopping, #กาแฟ, #คาเฟ่กรุงเทพ).
+- Chatbot offer to adapt the caption once the shop name and vibe are known was removed. Adding the shop name would help.

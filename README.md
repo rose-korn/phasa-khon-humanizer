@@ -165,7 +165,7 @@ Found a Thai or English tell that is not listed? Open an issue with a real examp
 python3 scripts/validate-package.py
 ```
 
-See [AGENTS.md](AGENTS.md) for the rules. By sending a pull request, you agree that your contribution is released under the MIT License of this project. Use only examples you wrote yourself or have the right to share, and remove personal data from them.
+See [AGENTS.md](AGENTS.md) for the rules. To measure a change, run the evaluation in [tests/eval](tests/eval/README.md). By sending a pull request, you agree that your contribution is released under the MIT License of this project. Use only examples you wrote yourself or have the right to share, and remove personal data from them.
 
 ## Credits
 
