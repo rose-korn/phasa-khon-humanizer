@@ -1,0 +1,6 @@
+Placeholders: none.
+Versions: the source had 4 caption styles (ชิลล์ๆ, สั้นๆ, ชวนไปตาม, กวนๆ). I rewrote only the first and left 3 others out. Tell me if you want any of them.
+Check before posting:
+- The cafe is new and in Ari, the latte art and milk/coffee description: confirm they match the real shop. The cafe name is not given.
+- I cut the suggested-hashtags label and the duplicates (#latte, #กาแฟ, #คาเฟ่กรุงเทพ); add them back if you want a longer tag list.
+- The closing offer to adjust the caption with the shop name was removed.

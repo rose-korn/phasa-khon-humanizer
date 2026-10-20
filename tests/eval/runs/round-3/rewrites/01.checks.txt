@@ -1,0 +1,7 @@
+Placeholders: none.
+Check before posting:
+- The source had the template pair "ค่ะ/ครับ" and "นะคะ/ครับ". I dropped them because the text reads fine without them. Add the particle that matches the poster's gender if you want one.
+- 6,000 baht total, 3 days 2 nights, and that it covers lodging, travel, food and souvenirs: confirm the real figure and what it includes.
+- Highlights and the claims "อากาศดี ผู้คนใจดี อาหารอร่อย" are the writer's own experience; keep only what actually happened (e.g. the Doi Suthep and night market stops).
+- I cut the closing line "ทริปนี้พิสูจน์แล้วว่า ไม่ต้องใช้เงินเยอะก็เที่ยวสนุกได้" because the post already says it. I dropped the duplicate hashtag #เที่ยวเชียงใหม่.
+- The chatbot wrapper and the closing offer to adjust tone/add shop names were removed. If you have shop or hotel names, adding them would make the post stronger.

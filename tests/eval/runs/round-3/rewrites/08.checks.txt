@@ -1,0 +1,6 @@
+Placeholders: none. The shop name is not given.
+Check before posting:
+- Replace the generic details with your real visit: 299 baht price, the food choices (pork, beef, seafood, vegetables), about 40 minutes' wait, 4/5 rating, heat and noise at peak time. The chatbot note says taste and service details are generic examples.
+- "ถึงแม้ช่วงคนเยอะจะรอบ้างเล็กน้อย" is ambiguous in the source (waiting for food or for refills?); say which.
+- I merged the pros/cons lists into the body because they repeated it, and removed the emoji headings and bold. Tell me if you want the separate ข้อดี/ข้อเสีย sections back.
+- The chatbot's closing note was removed.

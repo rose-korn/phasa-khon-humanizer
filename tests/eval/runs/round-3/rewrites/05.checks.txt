@@ -1,0 +1,6 @@
+Placeholders kept: [ปี], [เวลาเลิกงาน: ระบุตามนโยบายบริษัท], [ช่องทางติดต่อ], [วันที่ประกาศ].
+Check before posting:
+- New start time 09:30 and start date 1 December: confirm. Fill in the year.
+- Say the finish time; the source left it as a placeholder, and employees will ask whether it also moves.
+- I removed the bold and the "รายละเอียด" list because it repeated the sentence above. The formal closing "จึงประกาศมาเพื่อทราบโดยทั่วกัน" is a fixed form and was kept.
+- If you want a casual version for a chat group, say so.

@@ -1,0 +1,6 @@
+Placeholders kept: [ชื่อหัวหน้า], [ชื่อรายงาน], [วันที่] (twice: the Friday due date and the Monday new date), [ชื่อของคุณ], [ตำแหน่ง / ฝ่าย].
+Check before sending:
+- Choose the particle: the source used template pairs "ผม/ดิฉัน" and "ครับ/ค่ะ" and I do not know the sender's gender. I dropped the pronoun and left one "ครับ/ค่ะ" at the end; pick one (or remove it).
+- Reason for the delay (accounting data incomplete) and that you are already chasing the accounting team: confirm both are true.
+- Check that the new date really is a Monday and the old one a Friday.
+- Chatbot tip kept as a suggestion: if part of the report is done, mention it or attach it; it may reassure your manager.

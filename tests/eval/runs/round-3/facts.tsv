@@ -1,0 +1,31 @@
+id	units	lost	added	changed	placeholder_filled	notes
+01	15	0	0	0	0	none; dropped only hype (แค่, สุดชิลล์, closing slogan restating low budget), ค่ะ/ครับ removed not resolved, one hashtag
+02	6	0	0	0	0	none; only emoji and hashtags dropped
+03	16	0	0	0	0	none counted; dropped hype only (ราคาที่จับต้องได้ - price 390 still present, คุณภาพดี, แดดเมืองไทยแรง, คุ้มสุดๆ->คุ้มเลย)
+04	15	0	0	0	0	none; ผม/ดิฉัน dropped without resolving gender, ครับ/ค่ะ kept, all placeholders kept
+05	9	0	0	0	0	none; duplicate detail list merged, all placeholders kept
+06	12	1	0	0	0	LOST: comparison baseline "เมื่อเทียบกับช่วงเปรียบเทียบ" for the 12% growth
+07	28	2	0	1	0	LOST: "ใช้เงินอย่างมีสติ" (definition of saving); LOST: promise "อีกไม่นานคุณจะประหลาดใจกับเงินเก็บของตัวเอง"; CHANGED: added "ก็พอ" making start-small-and-continue sufficient (stronger certainty)
+08	20	0	0	0	0	none; ราคาไม่แพง/หลากหลาย pros duplicated by kept facts
+09	10	0	0	0	0	none; "สร้างคุณค่าให้" softened to "ช่วย" (wording only), speaker already male in original
+10	7	0	0	0	0	none; only emoji dropped
+11	11	0	0	0	0	all kept (Uniqlo, size M, 3 pcs, 250 baht for 3, condition, photos in comment, contact, fast ship, cut on transfer); only emoji and duplicate hashtag removed
+12	10	0	0	0	0	all kept (5-day delay, 50-baht code for next order, via email/message within 24 h, send tracking no., team signature); softening only: ขออภัยเป็นอย่างสูง->ขออภัย, ถึง 5 วัน->5 วัน, อดทนรอ->รอ (tone, not counted)
+13	8	0	0	0	0	all kept (cat named ข้าวตัง, just adopted from foundation, thanks, still shy, adjusting); emoji/hashtags removed only
+14	13	0	0	0	0	all kept incl. 4/5 rating (stars + 4 ดาวจาก 5), hedge อาจ kept; list merged into prose; (4/5) label removed but duplicate
+15	10	0	0	0	0	all kept (Tue 12, 09.00-15.00, pipe repair, store water, close taps + reason, contact office, ค่ะ/ครับ kept); reason line removed but duplicates ซ่อมท่อประปา sentence
+16	12	0	0	0	0	all kept (30 days, morning cup, water/herbal tea/sleep earlier, 3 results, not fully quit); wording ยังเลิกได้ไม่เด็ดขาด same meaning
+17	11	1	0	0	0	LOST: ทุกคนคือส่วนหนึ่งของความสำเร็จนี้ sentence (with ขอบคุณจริงๆ). ครับ/ค่ะ template kept at end; มาก dropped from opening thanks (no info)
+18	11	0	0	0	0	all kept (Bangna, 60 baht/hr, part-time flexible, 3 duties, 3 qualifications, inbox/[เบอร์โทร] placeholder intact); emoji/hashtag removed
+19	14	0	0	0	0	all kept (1,290 baht, 3/5, ~2 months, ~6 h battery, hedges ประมาณ/เล็กน้อย/ระดับหนึ่ง kept, condition for comparing models kept)
+20	11	0	0	0	0	all kept (3 days 18-20 Dec [ปี], placeholders intact, handoff, urgent contact); ดิฉัน/ผม pronoun and first ค่ะ/ครับ dropped but no gender resolved, closing ครับ/ค่ะ keeps neutral template
+21	20	0	0	0	0	all facts kept (10 km, 3am, km 1-5/6-8/last 2, 1:12, sub-1h goal, half marathon, 3 lessons); ครับ/ค่ะ kept in closing line; only hype/emoji/hashtag edits
+22	11	0	0	1	0	changed: ตั้งใจทำทุกขั้นตอน (made with care at every step) -> ทำเองทุกขั้นตอน (we make every step ourselves), a new self-made claim; 450 baht/pound, 3 days ahead, size/flavor/date all kept
+23	11	0	0	0	0	all placeholders kept unfilled; March delay, factory cause, action item, next steps kept
+24	17	0	0	0	0	1,800 baht, within 1 hour, no extra charge, placeholders kept; minor wording only (ให้คำแนะนำดี -> ให้คำแนะนำ treated as hype)
+25	8	0	0	0	0	12-16 Apr closed, reopen 17 Apr, contact before 12 Apr kept; ค่ะ/ครับ template kept
+26	20	1	0	1	0	lost: claim that hybrid work is not just a temporary trend (ไม่ใช่เพียงเทรนด์ชั่วคราว); changed: hedge dropped in point 2 (งานที่ต้องการสมาธิสูงอาจทำที่บ้าน -> ทำที่บ้าน)
+27	10	0	0	0	0	5 years, staff thanks, promise to keep taste/quality/service kept; ค่ะ/ครับ kept
+28	16	0	0	0	0	2,500/night, sea view, ค่อนข้างธรรมดา breakfast kept with hedge, 4/5, tip kept; pros/cons list merged into body text, no facts lost
+29	11	0	0	0	0	ผมชื่อ/ดิฉันชื่อ -> ชื่อ (still gender-neutral, not resolved); ครับ/ค่ะ kept at end; Beer, sales -> marketing, first day, placeholder kept
+30	12	0	0	0	0	second attempt, first fail from nerves, 3 lessons kept as prose; only hashtag/emoji removed

@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.4.0
+
+Three rounds of fixes measured on the 30-text evaluation, then checked on 20 new texts (`tests/eval/README.md`). On the new texts, facts kept rose from 89.3% to 95.1% and added facts fell from 4 to 0. The AI-judge win rate stayed within noise (92% to 98%).
+
+- New rule in Step 2: cut wrappers, not meaning. Words for degree, certainty, conditions, cause and purpose, the writer's own verdict or advice, and who is speaking are content, and keep the strength the source gave them (`SKILL.md`).
+- A closing summary may be cut only after its claims are moved into the body (`SKILL.md`).
+- The draft check now compares the source and the draft one sentence at a time, including the opening line and any closing promise (`SKILL.md`).
+- A text with only a few tells gets a light touch: casual posts keep their particles, English words, calls to action, and loose formatting (`SKILL.md`).
+- The evaluation has a held-out set (`tests/eval/holdout/`) and a stricter fact check.
+
 ## 0.3.0
 
 Fixes from the first evaluation on 30 Thai texts, where v0.2.0 reached a 93% AI-judge win rate and kept 97.6% of facts.

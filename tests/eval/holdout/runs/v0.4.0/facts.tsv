@@ -1,0 +1,21 @@
+id	units	lost	added	changed	placeholder_filled	notes
+31	12	1	0	0	0	LOST: "ทำเลดี" claim dropped (only "ใกล้ BTS"/"คุ้มค่ามากสำหรับทำเลนี้" remain); minor: "ถือว่า" and "ทุกคน" in thanks dropped, not counted
+32	10	0	0	0	0	none; "ทันที"/"รีบ" hype and ค่ะ/ครับ template removed neutrally (not resolved)
+33	14	1	0	2	0	LOST: promise "ทางเรายินดีให้ข้อมูลเสมอ"; CHANGED: "มุ่งมั่นรักษามาตรฐาน" (commitment) -> "ยังรักษา...ไว้เช่นเดิม" (stated fact); "พยายามอย่างเต็มที่" -> "พยายาม" (degree dropped); placeholders kept
+34	20	1	0	0	0	LOST: explicit recommendation "แนะนำร้านนี้เลย"; pros list merged without loss; ค่ะ/ครับ removed neutrally
+35	12	0	0	0	0	none; ค่ะ/ครับ removed neutrally; "พบกันนะ" filler dropped
+36	4	0	0	0	0	none; gender template (หนู/ค่ะ vs ผม/ครับ) made neutral, not resolved; date 29 ธันวาคม kept
+37	11	2	0	1	0	LOST: "ความคิดสร้างสรรค์" as part of cause; "สร้างคุณค่าให้องค์กร"; CHANGED: cause statement "รางวัลนี้เป็นผลจาก..." turned into a thank-you (cause weakened)
+38	13	0	0	0	0	none; conclusion ("ระดับดี", fix parking first) moved into overview/recommendations, all numbers kept
+39	10	0	0	0	0	none; "เพียง" hype dropped
+40	13	0	0	0	0	none; all placeholders kept; "ขอบคุณอีกครั้ง" duplicate dropped; "สร้างคุณค่าให้กับทีม" -> "ช่วยทีม" minor, not counted
+41	19	0	0	1	0	changed: monthly savings (separate pro) recast as a result of lower maintenance (cause added: "ค่าใช้จ่ายรายเดือนจึงลดลง"); "need to plan charging on long trips" dropped but duplicate of plan-route advice still present
+42	17	0	0	0	0	only bold removed; all facts kept (1441, URL, 4 prevention steps, 5 warning signs)
+43	3	0	0	0	0	bullets removed only; 4 days 3 nights, Lipe, no-filter kept
+44	9	0	0	1	0	changed: rewrite appends a second short announcement ending in ค่ะ, resolving the gender-neutral letter to a female speaker; added summary repeats existing facts only
+45	17	0	0	0	0	hook question and closing slogan dropped (hype); [ระบุเวลา] [ลิงก์] [ช่องทางติดต่อ] kept
+46	32	1	0	2	0	lost: summary point that shift work need not mean accepting short sleep / take care of own health (only environment+timing kept); changed: tip 2 hedge "พยายาม" dropped; tip 6 "เพื่อลดการรบกวน" strengthened to "จะได้ไม่มีใครมารบกวน"
+47	11	0	0	0	0	pros list dropped but all items duplicate kept sections; 85 baht, 9/10, placeholders kept
+48	13	0	0	0	0	near-identical; times 22:00-02:00, [วันที่], placeholders kept
+49	8	0	0	0	0	"พลังของการแชร์ยิ่งใหญ่มาก" dropped (hype); placeholders kept
+50	16	0	0	0	0	section headers merged into prose; all steps, reasons, placeholders and ผม/ครับ kept

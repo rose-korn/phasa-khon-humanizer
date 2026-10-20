@@ -1,0 +1,6 @@
+Placeholders: none.
+Check before publishing:
+- Saving 10-20% of income and an emergency fund of 3-6 months of expenses are the figures in the source; confirm you want to stand behind them (they are rules of thumb, not tied to any source).
+- "Credit card interest is very high": consider giving the actual rate range.
+- I cut the closing "สรุป" section. Its advice (saving does not mean giving up everything; start small and keep going) moved to the intro. I dropped the promise that readers will be surprised by their savings, since the text cannot back it up.
+- Removed the emoji from the title and the "not X but Y" half of heading 1.
