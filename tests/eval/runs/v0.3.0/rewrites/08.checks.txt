@@ -1,0 +1,7 @@
+Check before publishing:
+- The chatbot said the taste and service details are generic sample copy. Confirm each against your real visit: fresh meat, good marinade, fragrant broth, several dips, fast refills, friendly atmosphere, hot and noisy at peak time.
+- Price 299 baht per person and the menu (pork, beef, seafood, vegetables); "reasonable for this area" is an opinion.
+- Queue about 40 minutes at a busy time, and the advice to book ahead or go before the rush. Confirm the restaurant takes bookings.
+- Rating 4/5 and the verdict "worth it if you can wait" are the writer's opinion.
+- No restaurant name is given in the source; add one if you want.
+- Cut: pros and cons lists (they repeated the body), emoji headings, and "สรุป" paragraph's "คุ้มค่ามากสำหรับคนรักหมูกระทะ".

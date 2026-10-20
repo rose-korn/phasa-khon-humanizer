@@ -9,6 +9,7 @@ This repo is an Agent Skill written in Markdown. There is no build step.
 - `references/patterns-en.md` holds the English patterns. IDs are `EN-n`.
 - `references/mixed-th-en.md` holds rules for mixed text. IDs are `MX-n`.
 - `examples/` holds worked examples used for manual testing.
+- `tests/eval/` holds a repeatable evaluation on 30 Thai texts. After a change to the skill, run it as `tests/eval/README.md` describes and add a row to its results table.
 - `scripts/validate-package.py` checks versions, descriptions, pattern numbering, README tables, pattern ID references, and file sizes.
 
 ## Rules for changes
