@@ -1,0 +1,31 @@
+id	units	lost	added	changed	placeholder_filled	notes
+01	16	2	0	2	0	LOST: low-budget claim (แถมไม่ต้องใช้งบเยอะ / ทริปนี้พิสูจน์แล้วว่าไม่ต้องใช้เงินเยอะก็เที่ยวสนุกได้); verdict คุ้มมากกก dropped. CHANGED: แค่ dropped from 6,000 บาท (removes "only" framing); เพลินมาก->เพลิน. Note: คือคำตอบจริงๆ->ก็ตอบโจทย์ and สุดชิลล์ dropped (hype, not counted); ครับ/ค่ะ template kept
+02	7	0	0	0	0	all units kept (first latte of day, new cafe, Ari, soft milk, fragrant coffee, latte art); only emoji/hashtag #latte removed
+03	17	2	0	1	0	LOST: แบรนด์ไทย คุณภาพดี (quality claim); ในราคาที่จับต้องได้ (affordability claim; price 390 still present). CHANGED: คุ้มสุดๆ->ก็คุ้ม (degree weakened). Note: ปกป้องผิวทุกวัน duplicate of ใช้ได้ทุกวัน; ค่ะ kept
+04	14	1	0	1	0	LOST: หากมีข้อสงสัย (invitation to ask questions; only plan-adjustment offer kept). CHANGED: ประสานงาน...อย่างต่อเนื่อง->กำลังติดตาม (อย่างต่อเนื่อง dropped). Note: all placeholders kept; ผม/ดิฉัน removed not resolved; ครับ/ค่ะ kept
+05	8	0	0	0	0	all kept: 09:30, 1 ธันวาคม [ปี], [เวลาเลิกงาน], HR [ช่องทางติดต่อ], [วันที่ประกาศ]; duplicate details list merged
+06	10	0	0	2	0	CHANGED: ภาพรวมยังเติบโตได้ดี -> only แม้หน้าร้านจะชะลอตัว (evaluation ได้ดี dropped); สะท้อนแนวโน้มที่ลูกค้าย้าย -> สะท้อนว่าลูกค้าย้าย (trend stated as fact, certainty up). Note: 12%, +30%, -5%, 3 recommendations kept
+07	22	3	0	0	0	LOST (summary section removed): ใช้เงินอย่างมีสติ; เริ่มจากสิ่งเล็กๆ แล้วทำต่อเนื่อง; promise อีกไม่นานคุณจะประหลาดใจกับเงินเก็บ. Note: ไม่ต้องอดทุกอย่าง moved into section 3; first-salary-feels-good sentiment dropped (not counted); ตั้งเป้า->เก็บให้ได้ minor
+08	20	0	0	1	0	CHANGED: คุ้มค่ามาก->คุ้ม (degree dropped). Note: pros ราคาไม่แพง/ของกินหลากหลาย covered by price+choices; 299, 4/5, 40 min, booking advice, hot/noisy kept
+09	11	2	0	1	0	LOST: ตื่นเต้นมาก (stated excitement); การสนับสนุน dropped from thanks list. CHANGED: ข้อมูลมีบทบาทสำคัญต่อการประเมินความเสี่ยง -> ใช้ข้อมูล...เป็นหลัก (strengthened to primary). Note: ยินดีที่จะเชื่อมต่อ folded into ทักมาแลกเปลี่ยน; ผม/ครับ kept; [ชื่อบริษัท] kept
+10	8	0	0	0	0	all kept: วันเกิดมายด์, วันเสาร์, 18:00, [ชื่อร้าน / สถานที่], reply in group to book table
+11	10	0	0	0	0	all kept (Uniqlo, M, 3 ตัว, 250 บาท, สภาพ, ซักแล้ว, รูปในคอมเมนต์, ทักแชต, ส่งเร็ว, ตัดยอดเมื่อโอน); only emoji/one hashtag dropped
+12	9	0	0	0	0	all kept (5 วัน, โค้ด 50 บาท, ครั้งถัดไป, อีเมล/ข้อความ, 24 ชม., แจ้งเลขพัสดุ, ตรวจสอบ, ทีมบริการลูกค้า, ค่ะ); intensity เป็นอย่างสูง and duplicate ขอโทษ ณ ที่นี้ dropped (courtesy only); sign-off ด้วยความเคารพ->ขอแสดงความนับถือ
+13	8	0	0	0	0	all kept (ข้าวตัง, แมว, รับจากมูลนิธิ, เพิ่งรับ, ขอบคุณมูลนิธิ/ทุกคน, ขี้อายนิดหน่อย, คุ้นบ้านใหม่); emoji/hashtag only
+14	11	0	0	0	0	all kept incl. hedge อาจ on ending and 4/5; list merged into prose; แรงจูงใจ paraphrased as ทำอะไรเพราะอะไร (same meaning)
+15	10	0	0	0	0	all kept (ซ่อมท่อ, งดจ่ายน้ำ, อังคารที่ 12, 09.00-15.00, กักน้ำ, ปิดก๊อก+เหตุผล, ติดต่อนิติบุคคล, ผู้ลงนาม); เหตุผล line dropped but duplicate of ซ่อมท่อ; closing thanks ค่ะ/ครับ line dropped (courtesy)
+16	12	0	0	0	0	all kept (30 วัน, ทุกเช้าแก้วแรก, น้ำเปล่า, ชาสมุนไพร, นอนเร็ว, 3 ผล incl. พอสมควร, ยังไม่เลิกเด็ดขาด, ทีละวัน)
+17	10	1	0	1	0	LOST: ทุกคนคือส่วนหนึ่งของความสำเร็จนี้ ขอบคุณจริงๆ ครับ/ค่ะ sentence; CHANGED: เปิดตัวสำเร็จ -> เปิดตัว (สำเร็จ dropped); 6 เดือน, 4 teams, ครับ/ค่ะ template kept
+18	12	0	0	0	0	all kept (บางนา, 60 บาท/ชม., ยืดหยุ่น, 3 หน้าที่, คุณสมบัติ, ไม่มีประสบการณ์ได้, [เบอร์โทร]); พาร์ตไทม์ in ลักษณะงาน dropped but still in title
+19	14	0	0	1	0	CHANGED: คุ้มระดับหนึ่ง -> ค่อนข้างคุ้ม (hedge strength altered); 1,290, 3/5, ~2 เดือน, ~6 ชม., ข้อดี/ข้อเสีย kept
+20	11	0	0	0	0	all placeholders kept; 3 วัน, 18-20 ธ.ค., [ปี] kept; ดิฉัน/ผม and inline ค่ะ/ครับ removed but not gendered (ค่ะ/ครับ kept in closing)
+21	18	1	0	0	0	LOST: reason clause "เพราะเป็นอีกหนึ่งก้าวสำคัญของตัวเองจริง ๆ ครับ/ค่ะ" dropped (ครับ/ค่ะ still present later, stays neutral). Other facts kept: 10K, 3am, thousands of runners, 1-5/6-8/last 2 km, 1:12, goal <1h then half marathon. Only hype/hashtag (#FirstRace) removed
+22	10	0	0	0	0	All facts kept: 450 baht/pound, order 3+ days ahead, custom name/message/theme, tell size/flavor/date via chat, ค่ะ. Removed only hype intro, "เพียง", purpose clause "เพื่อให้เราได้เตรียมเค้กที่ดีที่สุด" (hype), hashtags
+23	11	0	0	0	0	All kept: placeholders [ระบุวันที่] x3 and [ระบุรายชื่อ] unfilled, March delay, factory cause, marketing action item, next steps. Minor: "อย่างต่อเนื่อง" -> "ต่อไป" (not counted)
+24	15	0	0	1	0	CHANGED: "แจ้งราคาชัดเจนก่อนซ่อม" -> "แจ้งราคาก่อนซ่อม" (ชัดเจน dropped). Kept 1,800 baht, within 1 hour, 3 placeholders unfilled. "บริการเป็นกันเอง ให้คำแนะนำดี" merged to "ให้คำแนะนำเป็นกันเอง" (minor)
+25	9	0	0	0	0	All kept: closed 12-16 April, reopen 17 April, contact before 12 April, apology, thanks, safe travel wish, ค่ะ/ครับ neutral. Removed hype only
+26	28	3	0	2	0	LOST: context "ยุคที่รูปแบบการทำงานเปลี่ยนแปลงไปอย่างรวดเร็ว"; sec 6 "ส่วนในการดูแลสิ่งแวดล้อมและสร้างความยั่งยืน" (environment/sustainability framing, heading changed); conclusion goal "สร้างสภาพแวดล้อมการทำงานที่ทุกคนมีความสุขและเติบโตได้อย่างยั่งยืน". CHANGED: hedge dropped "งานที่ต้องการสมาธิสูงอาจทำที่บ้าน" -> "ทำที่บ้าน"; "หลายองค์กรให้ความสำคัญ" -> "หลายองค์กรเลือกใช้" (prioritize -> adopt, stronger). Minor: "ระยะยาว" -> "นานขึ้น"
+27	12	1	0	1	0	LOST: purpose "เพื่อตอบแทนความไว้วางใจของทุกท่าน". CHANGED: explicit promise "เราสัญญาว่าจะยังคงรักษา..." softened to "ต่อจากนี้เราจะรักษา..." (สัญญา dropped). Minor hype dropped: ความฝัน/ความตั้งใจ, ทุกรอยยิ้ม, ทุ่มเท, "ให้อร่อย"
+28	20	0	0	2	0	CHANGED: "ไฮไลต์ของที่นี่เลยคือห้องเห็นทะเล" -> "ห้องที่ชอบที่สุดคือห้องเห็นทะเล" (hotel highlight -> favorite room, implies comparing rooms); hedge dropped "อาจจะลองจองแบบไม่รวมอาหารเช้า" -> "ลองจอง...". Kept 2,500/night, ค่อนข้างธรรมดา, 4/5, pros/cons, ค่ะ/ครับ neutral
+29	15	0	0	0	0	All kept: name เบียร์, from sales to marketing, first day, sales experience, open to feedback, coffee invite, [เบอร์โทร / อีเมล] unfilled. ผมชื่อ/ดิฉันชื่อ -> "ชื่อ" (pronoun dropped, still neutral, not resolved); ครับ/ค่ะ kept at end. Minor: ยินดีมาก -> ดีใจ
+30	14	0	0	0	0	All kept: passed today, second attempt, first fail from nerves, more practice, three lessons (merged into prose), thanks, newbie driver. Removed only emojis and #ไม่ยอมแพ้

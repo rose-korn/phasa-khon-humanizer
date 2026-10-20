@@ -5,6 +5,8 @@ Usage:
   python3 tests/eval/eval.py build v0.4.0   # writes runs/v0.4.0/trials/ and runs/v0.4.0/blind/
   python3 tests/eval/eval.py score v0.4.0   # reads runs/v0.4.0/judgments.tsv and facts.tsv
 
+Add --holdout to use the held-out set in holdout/ instead of the tuning set.
+
 See tests/eval/README.md for the whole procedure.
 """
 import csv
@@ -17,8 +19,6 @@ from collections import defaultdict
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
-IDS = [f"{i:02d}" for i in range(1, 31)]
-JUDGES = 6
 EMOJI = re.compile(
     "[\U0001F000-\U0001FAFF☀-➿⬀-⯿️‍←-⇿⌀-⏿]"
 )
@@ -30,15 +30,17 @@ def clean(text):
     return "\n".join(line.rstrip() for line in text.strip().splitlines())
 
 
-def build(run):
+def build(base, run):
+    ids = sorted(p.stem for p in (base / "inputs" / "clean").glob("*.txt"))
+    groups = math.ceil(len(ids) / 10)
     trials = run / "trials"
     blind = run / "blind"
     for d in (trials, blind):
         shutil.rmtree(d, ignore_errors=True)
         d.mkdir(parents=True)
     batches = defaultdict(list)
-    for n, i in enumerate(IDS):
-        ai = clean((HERE / "inputs" / "clean" / f"{i}.txt").read_text())
+    for n, i in enumerate(ids):
+        ai = clean((base / "inputs" / "clean" / f"{i}.txt").read_text())
         rw = clean((run / "rewrites" / f"{i}.txt").read_text())
         for orient in ("AB", "BA"):
             a, b = (ai, rw) if orient == "AB" else (rw, ai)
@@ -49,7 +51,7 @@ def build(run):
         group = n // 10
         first, second = ("AB", "BA") if n % 2 == 0 else ("BA", "AB")
         batches[group].append(f"{i}{first}")
-        batches[group + 3].append(f"{i}{second}")
+        batches[group + groups].append(f"{i}{second}")
     random.seed(7)
     with open(run / "blind-map.tsv", "w") as out:
         out.write("judge\tfile\ttrial\n")
@@ -61,7 +63,7 @@ def build(run):
                 name = f"t{k:02d}"
                 shutil.copy(trials / f"{trial}.txt", blind / judge / f"{name}.txt")
                 out.write(f"{judge}\t{name}\t{trial}\n")
-    print(f"Built 60 trials for {JUDGES} judges in {blind}")
+    print(f"Built {2 * len(ids)} trials for {len(batches)} judges in {blind}")
 
 
 def wilson(k, n, z=1.96):
@@ -77,7 +79,7 @@ def pct(k, n):
     return f"{k}/{n} = {k / n:.0%} (95% CI {lo:.0%}-{hi:.0%})"
 
 
-def score(run):
+def score(base, run):
     rows = list(csv.DictReader(open(run / "judgments.tsv"), delimiter="\t"))
     # Judges only see file names; blind-map.tsv says which trial each file was.
     trial_of = {
@@ -114,7 +116,11 @@ def score(run):
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 3 or sys.argv[1] not in ("build", "score"):
+    args = sys.argv[1:]
+    base = HERE
+    if "--holdout" in args:
+        args.remove("--holdout")
+        base = HERE / "holdout"
+    if len(args) != 2 or args[0] not in ("build", "score"):
         sys.exit(__doc__)
-    run_dir = HERE / "runs" / sys.argv[2]
-    {"build": build, "score": score}[sys.argv[1]](run_dir)
+    {"build": build, "score": score}[args[0]](base, base / "runs" / args[1])

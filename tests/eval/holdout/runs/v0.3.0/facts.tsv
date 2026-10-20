@@ -1,0 +1,21 @@
+id	units	lost	added	changed	placeholder_filled	notes
+31	12	1	0	1	0	LOST: "ทำเลดี" claim dropped (only "ทำเลนี้" kept); CHANGED: "คุ้มค่ามาก" -> "คุ้ม" (degree มาก dropped). Minor: "เพื่อน ๆ ทุกคน" -> "เพื่อน ๆ" not counted
+32	10	0	0	0	0	All facts kept (8 นิ้ว, 350 บาท, จตุจักร, limited stock, DM to reserve); "ทันที"/"รีบ" hype dropped; ค่ะ/ครับ dropped not resolved to one gender
+33	13	1	0	1	0	LOST: "ทางเรายินดีให้ข้อมูลเสมอ"; CHANGED: "พยายามอย่างเต็มที่" -> "จะพยายาม" (degree dropped). Minor: "และสนับสนุน" dropped; 7%, 1 มกราคม, cause, all placeholders kept
+34	20	2	0	2	0	LOST: explicit recommendation "แนะนำร้านนี้เลย"; LOST: verdict "อร่อย"/ราคาเป็นมิตร (pros "รสชาติอร่อย" gone); CHANGED: "คุ้มมาก" -> "คุ้ม"; CHANGED: "คนเยอะมากช่วงเที่ยง" -> "ช่วงเที่ยงคนเยอะ" (มาก dropped). 20 บาท, 4/5, seats may be short kept; ค่ะ/ครับ dropped not resolved
+35	11	0	0	0	0	Sunday, 06.00, Lumpini, 3 items, warm-up, all levels, notify group all kept; ค่ะ/ครับ dropped not resolved
+36	5	0	0	0	0	Return for New Year, 29 ธันวาคม, miss mom kept; gender template (หนู/ค่ะ vs ผม/ครับ) removed neutrally, not resolved
+37	12	3	0	0	0	LOST: cause "ความร่วมมือ"; LOST: cause "ความคิดสร้างสรรค์"; LOST: "สร้างคุณค่าให้องค์กร". Pride/"ภูมิใจ" and hashtags dropped (hype)
+38	14	3	0	1	0	LOST: 32% "เป็นโอกาสในการปรับปรุง"; LOST: conclusion "พึงพอใจในระดับดี"; LOST: purpose "เพื่อยกระดับความพึงพอใจโดยรวม"; CHANGED: "ควรเร่งแก้ปัญหาที่จอดรถเป็นลำดับแรก" -> "เริ่มจากที่จอดรถเป็นลำดับแรก" (urgency เร่ง/ควร dropped). 120, 68%, 82, 32%, 4 recs kept
+39	10	0	0	0	0	6 คลาส, foundation, step-by-step, replay, target groups, 1,990 บาท, DM kept; "เพียง" and soft/fragrant hype dropped
+40	14	1	0	2	0	LOST: "ขอบคุณอีกครั้งสำหรับโอกาสนี้"; CHANGED: "รู้สึกยินดีมาก" -> "ยินดี" (มาก dropped); CHANGED: "ซึ่งทำให้ผมมั่นใจว่า" -> "ผมเชื่อว่า" (causal link to discussion dropped, certainty มั่นใจ->เชื่อ; "สร้างคุณค่า" -> "ช่วย"). All placeholders kept unfilled
+41	21	1	0	1	0	LOST: closing offer to answer questions (ใครมีคำถามเพิ่มเติม ถามได้เลยครับ). CHANGED: range drop on highway/AC lost 'ตามปกติ' (normal/expected). Minor not counted: 'เพราะ' added linking lower maintenance to no oil change; 'ล่วงหน้า' dropped but 'ก่อนออกเดินทาง' kept.
+42	16	0	0	0	0	All signals, 4 prevention steps, 1441, thaipoliceonline URL, share request kept; only 'เพื่อนๆทุกคน' address and proverb 'กันไว้ดีกว่าแก้' dropped (filler).
+43	4	0	4	0	0	ADDED: rewrite turns 3 captions into caption variants with new claims: 'ผิวดำขึ้น 3 เฉด'; 'ความสุขเพิ่มขึ้น 100%'; 'เงินหมด'; 'การพักใจที่ดีที่สุดของปีนี้' (also 'ขอต่อวีซ่า' joke, English captions). Original captions all kept.
+44	9	0	0	1	0	Full letter kept verbatim incl. placeholders. Extra LINE short version appended. CHANGED: short version ends with 'ค่ะ', resolving gender-neutral school sender to female.
+45	18	1	0	0	0	LOST: benefit 'รอยยิ้มและความสุขจากน้องๆ'. Slogan 'การศึกษาเปลี่ยนชีวิตได้' and opening question dropped (hype). 'มีใจเดียวกัน'->'สนใจเรื่องเดียวกัน' ok; placeholders [ระบุเวลา][ลิงก์][ช่องทางติดต่อ] kept.
+46	30	1	0	1	0	LOST: 'สรุป' section claim that night work need not mean insufficient sleep and that these steps improve sleep and energy. CHANGED: tip 6 'เพื่อลดการรบกวน' (reduce) -> 'จะได้ไม่มีใครมารบกวน' (no one disturbs), strengthened. All numbers (4-6 h, 20-30 min, 7-9 h) kept.
+47	16	0	0	1	0	CHANGED: recommendation weakened: 'ต้องจดร้านนี้ไว้เลย' -> 'น่าสนใจ' and 'แนะนำเลยค่ะ' -> 'เหมาะกับ'. Minor: 'ปลั๊กเยอะมาก/ปลั๊กเพียบ' dropped but 'มีแทบทุกโต๊ะ' kept; 'ได้สบาย' dropped. 85 บาท, 9/10, placeholders kept.
+48	13	0	0	0	0	All times (22:00-02:00, Sat [วันที่] to Sun), impacts, 3 requests, placeholders kept. 'หลีกเลี่ยง'->'ไม่ตั้งเวลา' slightly firmer, not counted.
+49	9	0	0	0	0	All kept incl. [ชื่อสุนัข] and [ชื่อผู้ที่พบ / ผู้ที่แจ้งเบาะแส]; only hype 'พลังของการแชร์ยิ่งใหญ่มาก' dropped.
+50	15	0	0	0	0	All kept: quit after years, dream, fear/hesitation and reason, 4 prep steps, early work, customer 'อร่อย', 3 placeholders, ครับ. 'ฝากร้านด้วยนะครับ' heading dropped (filler).

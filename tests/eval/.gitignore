@@ -1,2 +1,4 @@
 runs/*/trials/
 runs/*/blind/
+holdout/runs/*/trials/
+holdout/runs/*/blind/
