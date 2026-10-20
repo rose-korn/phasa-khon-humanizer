@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.3.0
+
+Fixes from the first evaluation on 30 Thai texts, where v0.2.0 reached a 93% AI-judge win rate and kept 97.6% of facts.
+
+- When a draft offers several versions and the user did not pick one, rewrite only the first and say how many were left out (`SKILL.md`, TH-26). Before, the rewrite kept every version.
+- Template pronouns such as "ผม/ดิฉัน" now follow the particle rule: never choose the writer's gender (`SKILL.md`, TH-22).
+- The draft check now asks whether a claim became more or less certain. Hedges such as "อาจ" and "น่าจะ" stay, and promises stay promises (`SKILL.md`, TH-27). TH-27 now cuts only the AI's notes about its own knowledge.
+
 ## 0.2.0
 
 Tuned the Thai patterns against real output from ChatGPT, Claude, and Gemini (`tests/samples/`).
