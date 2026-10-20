@@ -1,0 +1,7 @@
+Placeholders: none (no brand or product name is given in the post).
+Check before posting:
+- The chatbot note said the feature list is generic. Confirm every claim against the real product: UVA/UVB protection, light texture, absorbs fast, no white cast, non-clogging, suits all skin types, daily indoor/outdoor use.
+- Add the real SPF/PA values and the ingredients; the post has none.
+- Price 390 baht per tube and free shipping when buying 2 tubes: confirm, and say whether the offer has an end date.
+- I cut "คุณภาพดี" and the "แดดเมืองไทยแรงแค่ไหน..." slogan line since neither carried a fact. I kept the "ค่ะ" particles, which fit a female seller voice; change them if the seller is not.
+- Dropped the duplicate hashtag #กันแดด.

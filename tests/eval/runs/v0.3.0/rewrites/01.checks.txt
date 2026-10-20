@@ -1,0 +1,5 @@
+Check before publishing:
+- Particle pair "ครับ/ค่ะ" left once at the end (source had "ค่ะ/ครับ" and "นะคะ/ครับ"). Pick the writer's own.
+- 6,000 baht total: confirm it covers lodging, travel, food and souvenirs (the source's own breakdown). Also confirm 3 days 2 nights.
+- Activity list (old city temples, Doi Suthep view, khao soi / sai ua / nam prik noom, night market) should match the real trip. "คาเฟ่สุดชิลล์" shortened to "คาเฟ่".
+- Dropped duplicate hashtag #เที่ยวเชียงใหม่. Optional: add shop or hotel names (chatbot note removed).

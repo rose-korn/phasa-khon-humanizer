@@ -1,0 +1,6 @@
+Placeholders kept as is: [ปี], [ระบุตามนโยบายบริษัท] (closing time), [ช่องทางติดต่อ], [วันที่ประกาศ].
+Check before publishing:
+- New start time 09:30 and effective date 1 December [ปี]. Confirm both.
+- Closing time: unknown. Say whether it changes with the start time.
+- Removed the "details" list because it repeated the first paragraph. Fixed official-letter closings ("จึงประกาศมาเพื่อทราบโดยทั่วกัน") kept on purpose.
+- Chatbot offer of a more casual version for group chat was cut.

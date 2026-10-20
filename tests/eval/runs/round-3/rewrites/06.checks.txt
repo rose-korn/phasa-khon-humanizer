@@ -1,0 +1,7 @@
+Placeholders: none.
+Check before sending:
+- 12% total growth: the source said "compared with the comparison period" without saying which period (last quarter? last year?). I dropped that vague phrase; state the real baseline.
+- No baht figures or channel shares are given. A 30% online rise and a 5% store drop do not by themselves show how the total reached +12%; add the actual sales and each channel's share so it adds up.
+- The summary says the store decline reflects customers moving online, while recommendation 2 says to analyse why stores fell. Decide which you actually know.
+- Recommendations are the chatbot's preliminary suggestions; confirm management wants them. "Omnichannel" kept as the writer's term.
+- I removed the table and the chart emoji since the text now states both numbers.

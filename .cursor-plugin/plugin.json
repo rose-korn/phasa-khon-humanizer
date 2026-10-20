@@ -1,7 +1,7 @@
 {
   "name": "phasa-khon-humanizer",
   "description": "Rewrite AI-sounding Thai or English text so it reads like a person wrote it, without changing what it says.",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "author": {
     "name": "Pisitkorn-Bootchada"
   },
