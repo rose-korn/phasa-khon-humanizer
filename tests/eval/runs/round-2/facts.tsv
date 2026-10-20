@@ -1,0 +1,31 @@
+id	units	lost	added	changed	placeholder_filled	notes
+01	17	1	0	0	0	lost: claim that Chiang Mai is the answer for people wanting to escape the chaos and rest (ใครอยากหนีความวุ่นวาย... เชียงใหม่คือคำตอบ); ค่ะ/ครับ and นะคะ/ครับ dropped rather than resolved to one gender (not counted); พิสูจน์แล้ว->ทำให้รู้ว่า minor
+02	6	0	0	0	0	all kept; only emoji removed
+03	16	2	0	0	0	lost: ราคาที่จับต้องได้ (affordable claim), แบรนด์ไทย คุณภาพดี (quality claim); ปกป้องผิวทุกวัน duplicated by ใช้ได้ทุกวัน; hype line about Thai sun dropped (ignored)
+04	15	1	0	1	0	lost: หากมีข้อสงสัย (invite for questions); changed: ประสานงาน...อย่างต่อเนื่อง -> กำลังติดตาม...อยู่ (continuously dropped); ผม/ดิฉัน dropped not resolved; ครับ/ค่ะ kept; all placeholders kept
+05	11	0	0	0	0	all kept incl 09:30, 1 ธันวาคม [ปี], placeholders; only bold removed
+06	11	0	0	0	0	all numbers kept (12%, +30%, -5%); online main driver kept as cause; ภาพรวมยังเติบโตได้ดี แม้หน้าร้านชะลอตัว dropped but duplicates 12% growth; โมเมนตัม->การเติบโต fine
+07	25	2	0	1	0	lost: first salary feels very good (ความรู้สึกที่ดีมาก); closing promise อีกไม่นานคุณจะประหลาดใจกับเงินเก็บ; changed: hedge อาจหมดไว -> มักหมดเร็ว (certainty strengthened)
+08	22	0	0	0	0	all kept (299, 4/5, 40 min, hedges ประมาณ/ค่อนข้าง kept); pros/cons list items cheap/variety/long queue duplicate facts still present; ผักต่างๆ->ผัก fine
+09	10	0	0	0	0	all kept incl [ชื่อบริษัท], Data Analyst, ผม/ครับ; ตื่นเต้นมาก->ตื่นเต้น and สร้างคุณค่า->ช่วย treated as hype; hashtag dropped
+10	8	0	0	0	0	all kept: Saturday, Mind birthday, 18:00, placeholder, reply in group to book table
+11	11	0	0	0	0	All kept: Uniqlo, size M, 3 pcs, 250 baht for 3, good condition/worn few times/washed, more photos in comment, contact chat/comment, fast shipping, cut-off on transfer. Only emoji and one hashtag removed.
+12	9	0	0	0	0	All kept: 5-day delay, 50-baht code, next order, via email or message, within 24 hours, send tracking no. if not arrived/questions, will check and reply ASAP, customer service team signature, ค่ะ. Only apology intensity softened (เป็นอย่างสูง, ถึง) and duplicate apology line removed; no fact change.
+13	8	0	0	0	0	All kept: cat named ข้าวตัง, just adopted, from foundation, thanks foundation for care, thanks everyone for support, still a bit shy, adjusting to new home. Only emojis and one hashtag removed.
+14	12	0	0	0	0	All kept: title ติดเกาะ, 4/5, hard to put down, tight plot, suspense, dimensional characters/motivations, clear island atmosphere, slow middle parts, ending may feel quick to some (hedge อาจ kept), suits survival/human-relationship fans. Removed "อ่านสนุก" and "ให้ 4 ดาวจาก 5" as duplicates of facts still present (วางไม่ลง, 4/5 header).
+15	10	0	0	0	0	All kept: pipe repair, water off, Tuesday 12, 09.00-15.00, store water ahead, close taps after repair, to prevent strong flow, contact juristic office, ค่ะ/ครับ kept neutral, signer. Removed "เหตุผล: ซ่อมท่อประปา" line duplicates the repair fact still in the body.
+16	12	0	0	0	0	All kept: 30 days, used to depend on coffee, first cup every morning before work, switched to water/herbal tea/earlier sleep, easier sleep, calmer afternoons, saved a fair amount, not fully quit, building habit daily, invite support. Checklist turned into a sentence.
+17	11	1	0	0	0	LOST: "ทุกคนคือส่วนหนึ่งของความสำเร็จนี้ ขอบคุณจริง ๆ ครับ/ค่ะ" (credit to everyone for the success) removed; also "ทีมทุกคน" shortened to "ทีม". Kept: 6 months, app launched today, dev late nights, design easy/beautiful, testers caught every bug, marketing/support, rest and continue, ครับ/ค่ะ neutral.
+18	11	0	0	1	0	CHANGED: duty "บริการลูกค้าด้วยรอยยิ้ม" became "บริการลูกค้า" (qualifier "with a smile" dropped). Kept: Bangna, 60 baht/hour, flexible part-time, orders/drinks, cleaning, teamwork, service mind, no experience OK/training, inbox or [เบอร์โทร] placeholder intact.
+19	15	0	0	0	0	All kept: 1,290 baht, 3/5, about 2 months, OK for price, clear mids/highs, music/podcast, comfortable/light/little ear pain, Bluetooth stable, about 6 h battery slightly below expectation, weak bass, fairly good value for general use, compare models if battery/bass matter. Only headings removed.
+20	11	0	0	0	0	All kept: 3 days, 18-20 Dec, [ชื่อหัวหน้า], [ปี], finish pending work, hand over to teammates, urgent contact [ช่องทางติดต่อ], [ชื่อ-นามสกุล], [ตำแหน่ง / แผนก]. Pronoun ดิฉัน/ผม dropped and one ค่ะ/ครับ dropped, but gender not resolved (ค่ะ/ครับ kept in closing). Placeholders intact.
+21	22	0	0	0	0	All facts kept (10 km first race, 3am, thousands of runners, km 1-5/6-8/last 2, 1:12, hedge อาจจะ kept, goal <1 hr then half marathon); ครับ/ค่ะ dropped once but template kept later
+22	11	0	0	0	0	Price 450/pound, 3-day lead time, customization, order details kept; dropped only hype (ตั้งใจทำทุกขั้นตอน, คัดสรรอย่างดี, เพียง)
+23	11	0	0	1	0	CHANGED: ติดตามความคืบหน้าการผลิตจากโรงงานอย่างต่อเนื่อง -> อย่างต่อเนื่อง (continuously) dropped; all 3 placeholders kept unfilled
+24	17	0	0	2	0	CHANGED: แจ้งราคาชัดเจนก่อนซ่อม -> แจ้งราคาก่อนซ่อม (clear dropped); บริการเป็นกันเอง+ให้คำแนะนำดี merged to ให้คำแนะนำเป็นกันเอง (good advice claim dropped); ไว้ใจได้ dropped as hype; 1,800 baht, 1 hr, placeholders kept
+25	9	0	0	0	0	Closed 12-16 Apr, reopen 17 Apr, contact before 12 Apr kept; ค่ะ/ครับ template kept; dropped only duplicate wish/filler
+26	17	1	0	2	0	LOST: context claim ในยุคที่รูปแบบการทำงานเปลี่ยนแปลงไปอย่างรวดเร็ว. CHANGED: hedge อาจทำที่บ้าน -> ทำที่บ้าน (อาจ dropped); author general claim ไม่ใช่เพียงเทรนด์ชั่วคราว now attributed to company view (บริษัทเรามองว่า); also เติบโตได้อย่างยั่งยืน/ความยั่งยืน dropped (treated as hype)
+27	12	0	0	0	0	5 years, small shop start, thanks to customers and team, promise on taste/quality/service kept; ค่ะ/ครับ template kept at end; ขอบคุณจากใจจริง filler dropped
+28	20	0	0	0	0	2,500/night, sea view, sunset, breakfast ค่อนข้างธรรมดา (hedge kept), 4/5, booking tip kept; pros/cons list removed but duplicates body; ค่ะ/ครับ kept at end
+29	13	0	0	0	0	Name เบียร์, sales->marketing first day, sales experience, invite kept; ผมชื่อ/ดิฉันชื่อ neutralized to ชื่อ (not resolved); ครับ/ค่ะ kept; placeholder [เบอร์โทร / อีเมล] kept; ด้วยความเคารพ closing dropped
+30	16	0	0	0	0	Passed today, second attempt, first fail details, practice, 3 lessons, new driver all kept
