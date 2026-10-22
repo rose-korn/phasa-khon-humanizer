@@ -2,8 +2,8 @@
   "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
   "name": "phasa-khon-humanizer",
   "owner": {
-    "name": "Pisitkorn-Bootchada",
-    "url": "https://github.com/Pisitkorn-Bootchada"
+    "name": "rose-korn",
+    "url": "https://github.com/rose-korn"
   },
   "description": "Install Phasa Khon Humanizer as a Claude plugin.",
   "plugins": [
