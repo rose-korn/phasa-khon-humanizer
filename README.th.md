@@ -36,14 +36,14 @@
 ### Claude Code
 
 ```text
-/plugin marketplace add Pisitkorn-Bootchada/phasa-khon-humanizer
+/plugin marketplace add rose-korn/phasa-khon-humanizer
 /plugin install phasa-khon-humanizer@phasa-khon-humanizer
 ```
 
 ### Codex, Cursor, Gemini CLI และ agent อื่น
 
 ```bash
-npx skills add Pisitkorn-Bootchada/phasa-khon-humanizer --global --agent '*'
+npx skills add rose-korn/phasa-khon-humanizer --global --agent '*'
 ```
 
 ### Claude.ai และ Claude Desktop

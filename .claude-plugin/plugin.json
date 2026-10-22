@@ -4,11 +4,11 @@
   "description": "Rewrite AI-sounding Thai or English text so it reads like a person wrote it, without changing what it says.",
   "version": "0.4.0",
   "author": {
-    "name": "Pisitkorn-Bootchada",
-    "url": "https://github.com/Pisitkorn-Bootchada"
+    "name": "rose-korn",
+    "url": "https://github.com/rose-korn"
   },
-  "homepage": "https://github.com/Pisitkorn-Bootchada/phasa-khon-humanizer",
-  "repository": "https://github.com/Pisitkorn-Bootchada/phasa-khon-humanizer",
+  "homepage": "https://github.com/rose-korn/phasa-khon-humanizer",
+  "repository": "https://github.com/rose-korn/phasa-khon-humanizer",
   "license": "MIT",
   "keywords": ["writing", "editing", "humanize", "thai", "english", "prose"],
   "skills": ["./"]

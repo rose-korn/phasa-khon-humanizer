@@ -33,14 +33,14 @@ Once installed, the skill answers to `/phasa-khon-humanizer`.
 ### Claude Code
 
 ```text
-/plugin marketplace add Pisitkorn-Bootchada/phasa-khon-humanizer
+/plugin marketplace add rose-korn/phasa-khon-humanizer
 /plugin install phasa-khon-humanizer@phasa-khon-humanizer
 ```
 
 ### Codex, Cursor, Gemini CLI, and other agents
 
 ```bash
-npx skills add Pisitkorn-Bootchada/phasa-khon-humanizer --global --agent '*'
+npx skills add rose-korn/phasa-khon-humanizer --global --agent '*'
 ```
 
 Leave off `--global` to install it only in the current project.
