@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.1
+
+Removed the `$schema` key from `.claude-plugin/plugin.json`. The Claude Agent SDK does not recognize it and showed a warning each time the skill loaded (same fix as blader/humanizer #307). No change to the patterns.
+
 ## 0.4.0
 
 Three rounds of fixes measured on the 30-text evaluation, then checked on 20 new texts (`tests/eval/README.md`). On the new texts, facts kept rose from 89.3% to 95.1% and added facts fell from 4 to 0. The AI-judge win rate stayed within noise (92% to 98%).

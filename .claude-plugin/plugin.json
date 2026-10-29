@@ -1,8 +1,7 @@
 {
-  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
   "name": "phasa-khon-humanizer",
   "description": "Rewrite AI-sounding Thai or English text so it reads like a person wrote it, without changing what it says.",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "author": {
     "name": "rose-korn",
     "url": "https://github.com/rose-korn"
