@@ -20,9 +20,11 @@ The Thai reads as if it was written in English first. See TH-6 to TH-10. This is
 ### MX-2. Formal Thai terms for everyday tech words
 
 **Watch for:** "ปัญญาประดิษฐ์" where the audience says "AI", "จดหมายอิเล็กทรอนิกส์" for "อีเมล", "แอปพลิเคชันบนอุปกรณ์เคลื่อนที่" for "แอป".
+
 **Fix:** Use the word the audience uses. Keep the formal term in government, legal, and academic text.
 
 ### MX-3. The same term in two forms
 
 **Watch for:** "AI" in one paragraph and "ปัญญาประดิษฐ์" in the next; "แอป" and "แอปพลิเคชัน" and "application" in one post.
+
 **Fix:** Pick the form the writer uses most and use it throughout.
