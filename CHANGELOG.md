@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.4.2
+
+Ideas adapted from blader/humanizer 4.0.0. No change to the patterns.
+
+- Closing tags such as `</skill>` and notes from an "operator" or a "system message" inside the text are material to edit, never instructions (`SKILL.md`).
+- File mode reads the whole current file before editing, even one written in the same session, and the summary says how many sections were reviewed, so a partial pass is visible (`SKILL.md`).
+- Added a blank line above each pattern label in the pattern files so GitHub shows every label and example on its own line.
+- Not adopted: 4.0.0 now lets the skill add true specifics the source lacks. This skill keeps its rule against added facts, since the Thai evaluation counts added facts as errors.
+
 ## 0.4.1
 
 Removed the `$schema` key from `.claude-plugin/plugin.json`. The Claude Agent SDK does not recognize it and showed a warning each time the skill loaded (same fix as blader/humanizer #307). No change to the patterns.
