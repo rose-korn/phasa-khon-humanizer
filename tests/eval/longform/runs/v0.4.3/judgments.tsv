@@ -1,0 +1,7 @@
+judge	file	pick	confidence
+j1	t01	B	2
+j1	t02	B	2
+j1	t03	A	3
+j2	t01	A	2
+j2	t02	A	3
+j2	t03	B	3

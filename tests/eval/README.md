@@ -32,7 +32,14 @@ The rounds tuned the skill on these 30 texts, so they can overfit. `holdout/` ha
 
 `longform/` has three long Thai articles (51–53) on arsenic in the Kok, Sai, and Mekong rivers, from Claude, Gemini, and ChatGPT. They are 3,700 to 8,400 characters each; every text in the other sets is under 1,800. Text 51 is a script meant to be read aloud and cites real sources; 52 and 53 are generic and give no measurements.
 
-The v0.4.2 rewrites in `longform/runs/v0.4.2/` were made in one agent session and checked by the same agent, with no separate judges, so they are not scored. Its first draft dropped or shifted three hedges and degree words in the middle of the articles and cut the script's rhetorical questions. Those misses led to the v0.4.3 changes. Score a version on this set with `eval.py --longform` and the steps below; with three texts there are six trials, so use two judges.
+Score a version on this set with `eval.py --longform` and the steps below; with three texts there are six trials, so use two judges.
+
+| Version | Rewrite judged human-written | Texts won in both orders | Facts kept | Facts lost | Facts added |
+|---|---|---|---|---|---|
+| v0.4.2 | 6/6 | 3/3 | 205/229 = 89.5% | 4 | 0 |
+| v0.4.3 | 6/6 | 3/3 | 203/212 = 95.8% | 0 | 0 |
+
+The v0.4.2 rewrites came from a single agent session that also tested the skill, not from fresh agents, and its first draft cut the script's rhetorical questions and shifted hedges in the middle of the articles. Those misses led to the v0.4.3 changes. The v0.4.3 rewrites came from fresh agents as in step 1 below. Each version had its own fact checker, so the unit counts differ. Most remaining changes in v0.4.3 are small shifts in certainty or cause, such as "โดยไม่มีนักท่องเที่ยว" becoming "เพราะไม่มีนักท่องเที่ยว". Six trials are too few to separate the win rates; the fact numbers are the useful signal here.
 
 ### What each round changed
 
