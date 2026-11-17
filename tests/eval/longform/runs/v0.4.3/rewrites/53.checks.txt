@@ -1,0 +1,11 @@
+Placeholders: none.
+
+Claims to check before using this script:
+- The cut note said this is a general overview, not a measurement report for any one river basin. If you cite it in a report, add actual measurement results and the dates of events from academic sources or the responsible agencies.
+- Kok River (ลุ่มแม่น้ำกก) example: confirm there really are water-quality monitoring and heavy-metal/arsenic concerns "in some stretches", and name the source. The cut chatbot offer also mentioned the Sai and Mekong rivers as options for a detailed, dated version.
+- "In the past, arsenic problems in many river basins were linked to upstream mining": a causal claim with no named basin or source.
+- Health claims: long-term exposure linked to skin and nervous-system disorders and internal organ damage; long-term inorganic arsenic exposure linked to skin, lung, and bladder cancer. Check against a health authority source (e.g. WHO/IARC).
+- Mechanism claims: floods spreading contaminated sediment in the wet season; arsenic in sediment changing chemical form and re-entering water in the dry season depending on pH, oxygen, and chemistry.
+- "Some areas of Thailand/Southeast Asia have geology conducive to natural arsenic": check and, if possible, name the areas.
+- The description of agencies sampling upstream, midstream, and downstream plus sediment and bank soil: confirm whether this describes what was actually done in a specific basin or is general practice.
+- The key-points list mentions things the body does not cover: effects on aquatic plants (พืชน้ำ), chronic disease (โรคเรื้อรัง), and remediating contaminated areas (ฟื้นฟูพื้นที่ปนเปื้อน). Either add them to the lecture or drop them from the list.

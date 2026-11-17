@@ -1,0 +1,13 @@
+Placeholders: none.
+
+Claims to check before publishing:
+- Causes: arsenic in river basins comes "mainly" from human activity together with geology; tin, gold, and coal mining named as examples.
+- Industrial wastewater from some factory types and past use of arsenic-containing farm chemicals as contributors.
+- Riverbed sediment arsenic "many times" above safety standards: no figure, site, or standard is given. Add a source or a number if one exists.
+- Rice absorbs arsenic from soil and water better than other crops (comparison with no source).
+- Arsenic classified as a Group 1 human carcinogen (IARC classification; name the source if needed).
+- Health effects listed for chronic arsenicosis: skin thickening on palms and soles, raindrop pigmentation, peripheral neuropathy, muscle weakness, cardiovascular effects, and skin, lung, bladder, and liver cancer. Check the list, especially liver cancer.
+- Arsenic is called "one of the most severe and longest-lasting" pollutants (ranking with no source).
+- Ron Phibun (ร่อนพิบูลย์) cited as an example case; check the details if more are added.
+- Restoration costs "many times more" than the economic value gained from the damage (comparison with no figures).
+- Current remediation measures (dredging, wastewater treatment, replacement tap water, ongoing health monitoring): check which are actually in place and where.
