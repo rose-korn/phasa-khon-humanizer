@@ -5,7 +5,8 @@ Usage:
   python3 tests/eval/eval.py build v0.4.0   # writes runs/v0.4.0/trials/ and runs/v0.4.0/blind/
   python3 tests/eval/eval.py score v0.4.0   # reads runs/v0.4.0/judgments.tsv and facts.tsv
 
-Add --holdout to use the held-out set in holdout/ instead of the tuning set.
+Add --holdout to use the held-out set in holdout/ instead of the tuning set,
+or --longform to use the long articles in longform/.
 
 See tests/eval/README.md for the whole procedure.
 """
@@ -121,6 +122,9 @@ if __name__ == "__main__":
     if "--holdout" in args:
         args.remove("--holdout")
         base = HERE / "holdout"
+    if "--longform" in args:
+        args.remove("--longform")
+        base = HERE / "longform"
     if len(args) != 2 or args[0] not in ("build", "score"):
         sys.exit(__doc__)
     {"build": build, "score": score}[args[0]](base, base / "runs" / args[1])

@@ -28,6 +28,12 @@ The rounds tuned the skill on these 30 texts, so they can overfit. `holdout/` ha
 | v0.3.0 | 37/40 = 92% (80–97%) | 18/20 | 243/272 = 89.3% | 8/20 | 4 |
 | v0.4.0 | 39/40 = 98% (87–100%) | 19/20 | 251/264 = 95.1% | 13/20 | 0 |
 
+### Long-form check
+
+`longform/` has three long Thai articles (51–53) on arsenic in the Kok, Sai, and Mekong rivers, from Claude, Gemini, and ChatGPT. They are 3,700 to 8,400 characters each; every text in the other sets is under 1,800. Text 51 is a script meant to be read aloud and cites real sources; 52 and 53 are generic and give no measurements.
+
+The v0.4.2 rewrites in `longform/runs/v0.4.2/` were made in one agent session and checked by the same agent, with no separate judges, so they are not scored. Its first draft dropped or shifted three hedges and degree words in the middle of the articles and cut the script's rhetorical questions. Those misses led to the v0.4.3 changes. Score a version on this set with `eval.py --longform` and the steps below; with three texts there are six trials, so use two judges.
+
 ### What each round changed
 
 - **Round 1.** Misses: the rewrite weakened words that carry meaning, such as degree (ค่อนข้าง, มาก), certainty (อาจ, ถือว่า), conditions, and causes, and once made a customer's words sound like the shop's. Change: a "cut wrappers, not meaning" rule in Step 2 of `SKILL.md`. Facts rose from 89.5% to 91.8%.
@@ -48,6 +54,7 @@ What this does not show: the judges and fact checkers are AI, and the comparison
 - `runs/<version>/judgments.tsv`: each judge's answers.
 - `runs/<version>/facts.tsv`: the fact check, one row per text. `runs/v0.3.0/facts-strict.tsv` re-checks v0.3.0 with the stricter prompt.
 - `holdout/`: 20 more texts with the same layout, kept out of tuning. Run `eval.py --holdout build|score <version>` for them.
+- `longform/`: three long articles with the same layout. Run `eval.py --longform build|score <version>` for them.
 - `eval.py`: builds the trials and prints the scores.
 
 ## How to run

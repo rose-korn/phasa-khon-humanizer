@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.4.3
+
+Fixes from a first test on three long Thai articles (`tests/eval/longform/`). No change to the patterns.
+
+- The draft check runs one paragraph at a time in a long text and looks for each paragraph's degree, certainty, and condition words in the draft. In the test, "อาจ...เพียงอย่างเดียว", "เป็นอย่างมาก", and "ในอดีต" drifted in the middle of a long rewrite (`SKILL.md`).
+- Scripts read aloud, such as documentary narration and voice-overs, keep their rhetorical questions and short pacing lines (`SKILL.md`).
+- New long-form test set: three articles of 3,700 to 8,400 characters on the same topic from Claude, Gemini, and ChatGPT.
+
 ## 0.4.2
 
 Ideas adapted from blader/humanizer 4.0.0. No change to the patterns.
